@@ -485,8 +485,8 @@
       "prelude",
       "eff"
     ],
-    "repo": "https://github.com/purescript/purescript-console.git",
-    "version": "v2.0.0"
+    "repo": "https://github.com/paulyoung/purescript-console.git",
+    "version": "pureswift"
   },
   "const": {
     "dependencies": [
@@ -777,8 +777,8 @@
     "dependencies": [
       "prelude"
     ],
-    "repo": "https://github.com/purescript/purescript-eff.git",
-    "version": "v2.0.0"
+    "repo": "https://github.com/paulyoung/purescript-eff.git",
+    "version": "pureswift"
   },
   "eff-functions": {
     "dependencies": [
@@ -2300,8 +2300,8 @@
   },
   "prelude": {
     "dependencies": [],
-    "repo": "https://github.com/purescript/purescript-prelude.git",
-    "version": "v2.1.0"
+    "repo": "https://github.com/paulyoung/purescript-prelude.git",
+    "version": "pureswift"
   },
   "profunctor": {
     "dependencies": [
